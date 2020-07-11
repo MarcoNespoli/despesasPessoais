@@ -1,16 +1,12 @@
 # despesas_pessoais
 
-A new Flutter project.
+Alteração de projeto visto em aula (seção 4) 
+do curso do Leonardo Moura Leitão na Udemy.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Projeto (antes / depois) 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Alt Text](https://github.com/MarcoNespoli/despesasPessoais/blob/master/despesas_pessoais.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
